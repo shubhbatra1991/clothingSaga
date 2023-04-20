@@ -7,7 +7,7 @@ import Spinner from '../../../components/spinner/spinner.component';
 
 import './category.styles.scss';
 
-import { selectCategoriesIsLoading, selectCategoriesMap } from '../../../store/categories/categories.selector';
+import { selectCategoriesIsLoading, selectCategoriesMap } from '../../../store/categories/category.selector';
 
 
 const Category =  () => {
